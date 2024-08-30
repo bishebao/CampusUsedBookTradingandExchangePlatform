@@ -1,0 +1,2 @@
+# CampusUsedBookTradingandExchangePlatform
+ 基于SSM的校园旧书交易交换平台
